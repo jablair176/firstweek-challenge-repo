@@ -8,8 +8,8 @@
 - Adding a consice, descriptive title element
 
 ## Usage
-- Screenshot before changes ![alt text](assets/images/01-html-css-git-homework-demo).png
-- Screenshot after changes ![alt text](assets/images/Screenshot 2023-08-24 at 4.38.51 PM).png
+- Screenshot before changes ![before](assets/images/01-html-css-git-homework-demo.png)
+- Screenshot after changes ![after](assets/images/Screenshot-after.png)
 
 ## Credits 
 - Code base provided by ASU gitlab repo https://git.bootcampcontent.com/Arizona-State-University/ASU-VIRT-FSF-PT-08-2023-U-LOLC.git
